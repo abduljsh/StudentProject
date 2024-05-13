@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ * date May 13
  * @author sivagamasrinivasan
  */
 public class Student 
